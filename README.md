@@ -1,2 +1,2 @@
 # video essay cdm
- Video essay project for ENGCMP 610
+ This is my video essay project for ENGCMP 0610
