@@ -1,5 +1,8 @@
 # Video Essay CDM
 
+**Video Link**
+https://youtu.be/0taVgSNYveI
+
 **Summary**
 This is a project that covers "why social media sucks". From the beginnings of Facebook, to today's big boom of users on TikTok, social media has changed a whole lot. Throughout this video essay, I cover how social media has gone from a space that is used for casual viewing and posting to a space where most user’s have curated posts, ads are on every other scroll, and has all around become addicting.
 
